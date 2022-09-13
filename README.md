@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : KERSOAN P
+Roll no : 212221230050
+Date of experiment : AI & DS
 
 
 
